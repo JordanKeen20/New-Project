@@ -27,5 +27,18 @@
     * a user can like a recipe (click)
     * a user can comment on a recipe(submit)
 
+One Feature(commit when you are happy with it)
+   form (commit) -> submit even(commit)-> list out new resource (commit)
+how to add commits
+   git add (file)
+   git commit
+how to revers a commit
+    git checkout (number of commit)
+how to reverse the reversed commit
+    get branch
+    get checkout master
 
-    
+how to delete the commit(do this step with caution)
+    git log 
+    get checkout (number of commit)
+    git reset -- hard HEAD

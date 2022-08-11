@@ -1,4 +1,4 @@
-# Autisum Helper
+# Project Name
 This will be the overview for my project
 it will have details about what the project is about and
 its purpose.
